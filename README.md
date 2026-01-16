@@ -328,6 +328,6 @@ Final Configuration
 
 
 <div align="center">
-Made with ❤️ for Hundesportteam Wiehl
+Made with ❤️ for Hundesportteam.de
 🐕 Hundesport • 🏃 Training • 🏆 Wettkämpfe
 </div>
